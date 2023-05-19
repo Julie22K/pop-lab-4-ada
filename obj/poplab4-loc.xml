@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\pop\poplab4.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Dell\OneDrive\#208;#160;#208;#176;#208;#177;#208;#190;#209;#135;#208;#184;#208;#185; #209;#129;#209;#130;#208;#190;#208;#187;\#208;#157;#208;#176;#208;#178;#209;#135;#208;#176;#208;#189;#208;#189;#209;#143;\#208;#159;#208;#158;#208;#159;\pop-lab-4\pop-lab-4.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\pop\pop-lab-4.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\pop\poplab4.gpr</vfs_project>
+      <vfs_file>C:\pop\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 21" >
+      <vfs_project>C:\pop\poplab4.gpr</vfs_project>
+      <vfs_file>C:\pop\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 11" line=" 5" >
+      <vfs_project>C:\pop\poplab4.gpr</vfs_project>
+      <vfs_file>C:\pop\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
